@@ -11,6 +11,7 @@ public class MethodOverloading {
 	}
 	public void empdetails(int age) {
 		System.out.println(age);
+		System.out.println(age);
 	}
 	public void empdetails(String email,String project) {
 		System.out.println(email);

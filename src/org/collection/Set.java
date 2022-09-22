@@ -16,6 +16,8 @@ public static void main(String[] args) {
 	
 	for (int i = 0; i < li.size(); i++) {
 		System.out.println(li.get(i));
+		System.out.println("add new line");
+		System.out.println("manikandan");
 	}
 	
 	
